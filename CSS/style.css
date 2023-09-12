@@ -37,7 +37,7 @@ main {
 .picture {
     width: 80%;
     height: 40%;
-    margin: 25%;
+    margin-top: auto;
 }
 
 .text-container {
@@ -76,7 +76,7 @@ p {
 
 button {
     align-self: flex-end;
-    margin-top: 45%;
+    margin-top: 35%;
     border-width: 0.1rem;
     width: 150px;
     height: 50px;
@@ -86,10 +86,11 @@ button {
 
 .price {
     display: flex;
-    align-self: self-end;
     justify-self: flex-end;
-    margin-bottom: 10%;
-    margin-right: 10%;
+    margin-bottom: 1.8rem;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: 2rem ;
 
 }
 
